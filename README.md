@@ -5,6 +5,7 @@ Developed a time series forecasting model to predict Uber’s stock prices using
 
 ## Dataset Description
 This dataset contains historical stock price data for Uber Technologies Inc. (UBER), spanning from May 10, 2019, to February 5, 2025. It includes daily trading information with the attributes of **Date**, **Open**, **High**, **Low**, **Close**, **Adj Close**, **Volume**.
+
 Dataset Link - https://www.kaggle.com/datasets/varpit94/uber-stock-data
 
 ## 🧠 Key Objectives
